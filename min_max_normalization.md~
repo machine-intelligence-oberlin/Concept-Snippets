@@ -34,17 +34,6 @@ Let's visualize <br/>
 ```python
 import matplot.pyplot as plt
 
-# Unnormalized
-plt.figure()
-plt.subplot(211)
-plt.plot(dataset, color='red', marker='o')
 
-# Normalized
-plt.subplot(212)
-plt.plot(new_dataset, color='blue', marker='^')
-plt.show()
-```
 
-Here is the figure. <br/>
-
-<img src="https://github.com/machine-intelligence-oberlin//blob/master/Concept-Snippets/images/min_max_normalization.png" width="600" height="400" align="center" />
+<img src="https://github.com/tmartin2/Neurophysiology/blob/master/SynapticIntegration/Images/backprop.gif" width="600" height="400" align="center" />
