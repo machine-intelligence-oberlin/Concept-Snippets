@@ -47,4 +47,4 @@ plt.show()
 
 Here is the figure. <br/>
 
-<img src="https://github.com/machine-intelligence-oberlin//blob/master/Concept-Snippets/images/min_max_normalization.png" width="600" height="400" align="center" />
+<img src="https://github.com/machine-intelligence-oberlin/blob/master/Concept-Snippets/images/min_max_normalization.png" width="600" height="400" align="center" />
