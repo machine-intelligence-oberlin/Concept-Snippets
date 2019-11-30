@@ -9,7 +9,7 @@ __Explanation__ <br/>
 \begin{equation}E\textsubscript{train}(\textbf{w}) &= \frac{1}{N}\\\left\|(\textbf{X}\textbf{w} - \textbf{y})^2\right\|\end{equation}
 
 
-
+\begin{equation}E\textsubscript{train}(\textbf{w}) &= \frac{1}{N}\\(\textbf{w}^\textbf{T}\textbf{X}^\textbf{T}\textbf{X}\textbf{w} - 2\textbf{w}^\textbf{T}\textbf{X}^\textbf{T}\textbf{y} + \textbf{y}^\textbf{T}\textbf{y} )^2\end{equation}
 
 
 
