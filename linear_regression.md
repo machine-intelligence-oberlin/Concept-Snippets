@@ -1,6 +1,8 @@
 ### Linear Regression
-> Explanation and Multiple Codings of Linear Regression 
+> Explanation and Multiple Codings of Linear Regression
 ---
+
+__Explanation__ <br/>
 
 <p align="center"><img src="/tex/a2cc1d5782c9f560a0a305c51314b907.svg?invert_in_darkmode&sanitize=true" align=middle width=487.6121085pt height=47.93392394999999pt/></p>
 
