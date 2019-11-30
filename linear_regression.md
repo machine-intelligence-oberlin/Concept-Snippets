@@ -12,7 +12,7 @@ __Explanation__ <br/>
 <p align="center"><img src="/tex/616c110dd97eaed8841d71e750a36296.svg?invert_in_darkmode&sanitize=true" align=middle width=523.6729987499999pt height=32.990165999999995pt/></p>
 
 
-
+\begin{equation}\nablaE\textsubscript{train}(\textbf{w}) &= \frac{2}{N}\\(\textbf{X}^\textbf{T}\textbf{X}\textbf{w} - \textbf{X}^\textbf{T}\textbf{y}) &= 0
 
 
 
