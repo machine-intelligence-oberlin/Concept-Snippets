@@ -1,5 +1,8 @@
 ### Linear Regression
+> Explanation and Multiple Codings of Linear Regression
 ---
+
+__Explanation__ <br/>
 
 \begin{equation}E\textsubscript{train}(\textit{h}(\textbf{x},\textbf{w})) &= \frac{1}{N}\\\sum_{i=0}^{d}(\textbf{w}^\textbf{T}\textbf{x}_n - y_n)^2\end{equation}
 
