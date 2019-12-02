@@ -14,5 +14,8 @@ __Explanation__ <br/>
 
 \begin{equation}\nabla E\textsubscript{train}(\textbf{w}) &= \frac{2}{N}\\(\textbf{X}^\textbf{T}\textbf{X}\textbf{w} - \textbf{X}^\textbf{T}\textbf{y}) &= 0\end{equation}
 
+\textbf{X}^\textbf{T}\textbf{X}\textbf{w} &= \textbf{X}^\textbf{T}\textbf{y}
+
+\textbf{w}\textsubscript{opt} &= (\textbf{X}^\textbf{T}\textbf{X}\textbf{w})^-1\textbf{X}^\textbf{T}\textbf{y}
 
 
