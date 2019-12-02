@@ -18,6 +18,6 @@ __Explanation__ <br/>
 <p align="center"><img src="/tex/5a325ce54e9a979120c5f494e4f8bf18.svg?invert_in_darkmode&sanitize=true" align=middle width=405.4951494pt height=19.2192264pt/></p>
 
 
-<p align="center"><img src="/tex/efa14769ce35d77532c9339ff14bcccd.svg?invert_in_darkmode&sanitize=true" align=middle width=438.2577606pt height=19.8128106pt/></p>
+<p align="center"><img src="/tex/89fee8247ba2d6a698b050e5703c0447.svg?invert_in_darkmode&sanitize=true" align=middle width=438.2577606pt height=19.8128106pt/></p>
 
 
