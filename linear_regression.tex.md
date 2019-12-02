@@ -18,6 +18,6 @@ __Explanation__ <br/>
 \begin{equation}\textbf{X}^\textbf{T}\textbf{X}\textbf{w} &= \textbf{X}^\textbf{T}\textbf{y}\end{equation}
 
 
-\begin{equation}\textbf{w}\textsubscript{\textit{opt}} &= (\textbf{X}^\textbf{T}\textbf{X}\textbf{w})^-1\textbf{X}^\textbf{T}\textbf{y}\end{equation}
+\begin{equation}\textbf{w}\textsubscript{\textit{opt}} &= (\textbf{X}^\textbf{T}\textbf{X}\textbf{w})^{-1}\textbf{X}^\textbf{T}\textbf{y}\end{equation}
 
 
